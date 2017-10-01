@@ -1,0 +1,19 @@
+Animation states:
+Idle pose w/ additive noise
+Walk & Run speeds in 4 strafe directions
+Sprint
+Stand/Running Jump
+Crouch pose w/additive noise
+Crouch Loco in 4 strafe directions
+Loco To Stand transition
+Tiny steps
+Additive Hit Reactions for Idle-Run
+Fullbody Hit reactions for Sprinting
+Additive Aims
+Turn In Place
+
+Tech:
+Procedural Leans
+IK Torso Aim Correction
+Hands IK for weapons
+Feet IK w/ slope adjust
