@@ -1,3 +1,6 @@
+Extendable weapon animation set (sub blueprint or selector in state?)
+As few animation assets as possible
+
 Animation states:
 Idle pose w/ additive noise
 Walk & Run speeds in 4 strafe directions
